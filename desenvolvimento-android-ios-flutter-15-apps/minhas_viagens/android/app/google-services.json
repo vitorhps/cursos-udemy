@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992068376033",
+    "firebase_url": "https://minhas-viagens-fd8ef.firebaseio.com",
+    "project_id": "minhas-viagens-fd8ef",
+    "storage_bucket": "minhas-viagens-fd8ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992068376033:android:c67d69004f26974a1d6ea0",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.vitorhps.minhas_viagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992068376033-1fsenr6nc0b2lmf6dtpjcftuf2pu1hb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxaQYKxsvdOlDyxAriIaKgn6MEbnzbjNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992068376033-1fsenr6nc0b2lmf6dtpjcftuf2pu1hb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

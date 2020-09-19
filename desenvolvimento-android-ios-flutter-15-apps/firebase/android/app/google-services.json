@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86837339141",
+    "firebase_url": "https://fir-f796a.firebaseio.com",
+    "project_id": "fir-f796a",
+    "storage_bucket": "fir-f796a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86837339141:android:c8bee698d5c78a5477e86c",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.vitorhps.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86837339141-dcc4c9nklpumsqihovo8b7ogsoe576gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoflutter.vitorhps.firebase",
+            "certificate_hash": "ea6d1cd33282d29d1ecc5f173036010e76cfbf23"
+          }
+        },
+        {
+          "client_id": "86837339141-738j9ccki1uebcbeekcskho59aj9fin5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZElwDWaHUREFyR3zsi3orHqz9FGGdL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86837339141-738j9ccki1uebcbeekcskho59aj9fin5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
